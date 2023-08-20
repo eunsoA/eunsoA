@@ -11,7 +11,9 @@ I'm a growing prospective developer.
 - Game 🎮
 - Algorithm
 <br>
+
 # 😎 What i experienced
+
 융합특성화 자유전공학부 학과 커뮤니티 웹/앱 제작 프로젝트(SSYUNG) `2021.03`
 > 학과를 위한 커뮤니티 웹앱 개발
 
