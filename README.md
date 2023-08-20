@@ -2,21 +2,19 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20EunsoA's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=50&fontAlign=60&height=250)
 ---
 
-### 🙂 Hi! My name is "Eunso Ahn"
--------
+## 🙂 Hi! My name is "Eunso Ahn"
 I'm a growing prospective developer.
 🏫 Soongsil Univ. College of Computer Science
 <br>
 
-### 🌱 I’m currently learning ...
--------
+## 🌱 I’m currently learning ...
 - FE
 - Game 🎮
 - Algorithm
 <br>
 
-### 😎 What i experienced
--------
+## 😎 What i experienced
+
 융합특성화 자유전공학부 학과 커뮤니티 웹/앱 제작 프로젝트(SSYUNG) `2021.03`
 > 학과를 위한 커뮤니티 웹앱 개발
 
@@ -40,8 +38,7 @@ I'm a growing prospective developer.
 > 시각장애인도 참여할 수 있는 방탈출 게임
 <br>
 
-### 📫 How to reach me
--------
+## 📫 How to reach me
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.instagram.com/12.6.mhz/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
