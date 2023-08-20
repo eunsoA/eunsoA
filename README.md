@@ -1,11 +1,12 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20EunsoA's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20EunsoA's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=60&height=250)
 ---
 
 # 🙂 Hi! My name is "Eunso Ahn"
 I'm a growing prospective developer.
 🏫 Soongsil Univ. College of Computer Science
 <br>
+
 # 🌱 I’m currently learning ...
 - FE
 - Game 🎮
