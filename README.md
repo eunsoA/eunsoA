@@ -4,7 +4,8 @@
 ## 🙂 Hi! My name is "Eunso Ahn"
 I'm a growing prospective developer.
 🏫 Soongsil Univ. College of Computer Science
-<br>
+<br><br>
+
 
 ## 🌱 I’m currently learning ...
 - FE
