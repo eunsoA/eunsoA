@@ -9,8 +9,6 @@ I'm a growing prospective developer.
 
 ## 🌱 I’m currently learning ...
 - FE
-- Game 🎮
-- Algorithm
 <br>
 
 ## 😎 What i experienced
