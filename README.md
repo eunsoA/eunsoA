@@ -32,6 +32,7 @@
 
 ### 🏆 Awards
 - 2025 GDGoC 해커톤, 백야톤 (대상 수상) `2025.01`
+- 2024 2학기 숭실튜터링 우수 튜터 `2025.01`
 - 2024 클라우드 아이디어 공모전 (대상 부산시장상 수상) `2024.12`
 - 2024 ICT멘토링 프로젝트 한이음 트랙 (은상 (정보통신기획평가원장상) 수상) `2024.12`
 - 2023 SCON (8등 수상) `2023.05`
@@ -54,6 +55,9 @@
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:eunsoa0310@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+    <a href="mailto:esahn01@naver.com">
+        <img src="https://img.shields.io/badge/Email-339933?style=flat-square&amp;logo=Naver&amp;logoColor=white" style="height: 28px;">
     </a>
     <a href="https://www.instagram.com/e_ns0a/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
